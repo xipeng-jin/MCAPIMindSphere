@@ -1,0 +1,11 @@
+{
+    "client_id": "98b73ff66c0046359e33b5a4974ad9e0",
+    "token_endpoint_auth_method": "client_secret_jwt",
+    "grant_types": [
+        "client_credentials"
+    ],
+    "client_secret": "p0vi9jFpvfGjrGGyTEhhgQYymPcDZ-tsCLxfayA4DY0",
+    "client_secret_expires_at": 1552545648,
+    "registration_access_token": "eyJraWQiOiJrZXktaWQtMSIsInR5cCI6IkpXVCIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJTQ0kiLCJzdWIiOiI5OGI3M2ZmNjZjMDA0NjM1OWUzM2I1YTQ5NzRhZDllMCIsImF1ZCI6IkFJQU0iLCJpYXQiOjE1NTE5NDA4NDgsIm5iZiI6MTU1MTk0MDg0OCwiZXhwIjozMTU1Njg4OTg2NDQwMzE5OSwianRpIjoiMDRjNWQ5NjctYjEwZi00NTMyLWI4OWEtNjdiODg5NTZjZDQ5Iiwic2NvcGUiOiJSQVQiLCJ0ZW4iOiJhY2FkZW15MiIsInRlbl9jdHgiOiJtYWluLXRlbmFudCIsImNsaWVudF9jcmVkZW50aWFsc19wcm9maWxlIjpbIlNIQVJFRF9TRUNSRVQiXSwic2NoZW1hcyI6WyJ1cm46c2llbWVuczptaW5kc3BoZXJlOnYxIl19.Tq1c5ejz147jirRb7zI5rPLG3_dChI7_klYF-yOhQ4Y_1AefbZxgnwrTSoZuFDg7Tci3Y8YTlDIG9keyTDKs6wMoCk1GUC_PAShlmLlmUybaLYB8ZkSW_jGYw8jpMhlIrGs_nEk8BKhcoUMuwoipp6hm_QWyLSjbD9ThLTQz_Id8K7v466Cppva8C1VONo-1-OP4eEU0UzzLxi_aAjz2Q_PS60gdYIdj1rs2ny1INYOXLIpniMCrBfl0Ppj3S0DbZzh9k2DTHMo25xGAS_Mw1Sd2VDJKsJvLSfsZq7N2pnR1j_8ui6Yrg9xaHFldkO56kzdGuAv8ElaXGRfEp4pcFQ",
+    "registration_client_uri": "https://southgate.eu1.mindsphere.io/api/agentmanagement/v3/register/98b73ff66c0046359e33b5a4974ad9e0"
+}

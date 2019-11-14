@@ -1,0 +1,12 @@
+{
+  "content": {
+    "baseUrl": "https://southgate.eu1.mindsphere.io",
+    "iat": "eyJraWQiOiJrZXktaWQtMSIsInR5cCI6IkpXVCIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJTQ0kiLCJzdWIiOiI5OGI3M2ZmNjZjMDA0NjM1OWUzM2I1YTQ5NzRhZDllMCIsImF1ZCI6IkFJQU0iLCJpYXQiOjE1NTE5Mzg4OTUsIm5iZiI6MTU1MTkzODg5NSwiZXhwIjoxNTUyNTQzNjk1LCJqdGkiOiIxNTdjNGE0YS1mN2Y2LTRiNmEtOWUxMy1kYjY4NzI5MWYwNDciLCJzY29wZSI6IklBVCIsInRlbiI6ImFjYWRlbXkyIiwidGVuX2N0eCI6Im1haW4tdGVuYW50IiwiY2xpZW50X2NyZWRlbnRpYWxzX3Byb2ZpbGUiOlsiU0hBUkVEX1NFQ1JFVCJdLCJzY2hlbWFzIjpbInVybjpzaWVtZW5zOm1pbmRzcGhlcmU6djEiXX0.LXFwVf-eKK6M__rsoh_X4uOqc2GKfU5jz1qFLaFqXhCUm-vD9o5CDSOIRcwcdpiMNwUVGhxHaCKHi-QJoD1s7ezeIZ_jWQrYq8sVklkA1dDaU9lV7PMCg7W3cNSAx2lz2TkvajRTsgN3gxp4VGGOesjAHcoEBQ_CEzL_6zUdTnGaiIFGKLDzI1LDYu05xsAPpPu85PRcRshnJ_2508GKo-TFy2kpYP2D4tf90ytJXFA7TCPwl2PWyZ4mGuCz0OdiPlPBqsZoa9FENBHVyXJXBnxHGHvllCqhLctbftQwS0dix9d3mLEXoz4167A8Xuki35ZrczKgtghyXr_liyo31Q",
+    "clientCredentialProfile": [
+      "SHARED_SECRET"
+    ],
+    "clientId": "98b73ff66c0046359e33b5a4974ad9e0",
+    "tenant": "academy2"
+  },
+  "expiration": "2019-03-14T06:08:15.000Z"
+}

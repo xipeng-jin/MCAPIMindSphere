@@ -1,0 +1,10 @@
+applications:
+  - name: pumpimporter
+    instances: 1
+    random-route: true
+    health-check-type: process
+    command: python3 PumpImporterAll.py
+    path: .
+    buildpacks:
+      - python_buildpack
+    memory: 128M
